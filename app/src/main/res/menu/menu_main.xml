@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.erwin.arobswirelessboard.MainActivity">
+    <item
+        android:id="@+id/send_data"
+        android:icon="@drawable/play"
+        android:title="@string/send_data"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/stop_car"
+        android:icon="@drawable/stop"
+        android:title="@string/stop_car"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_connect"
+        android:onClick="StartBTIntent"
+        android:orderInCategory="120"
+        android:title="@string/action_connect"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_menu_main_disconnect"
+        android:orderInCategory="130"
+        android:title="@string/action_disconnect"
+        app:showAsAction="never" />
+</menu>
