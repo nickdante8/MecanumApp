@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop.png",
+        "source": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play.png",
+        "source": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\forward.png",
+        "source": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\backward.png",
+        "source": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\src\\main\\res\\drawable-mdpi\\backward.png"
+    },
+    {
+        "merged": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pause.png",
+        "source": "D:\\Nicolae_Butnari\\git\\MecanumApp\\app\\src\\main\\res\\drawable-mdpi\\pause.png"
+    }
+]
